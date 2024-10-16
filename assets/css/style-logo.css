@@ -23,7 +23,6 @@
 
 #col-img > picture > img {
   max-height: 650px;
-  filter: blur(0px);
 }
 
 #col-img {
