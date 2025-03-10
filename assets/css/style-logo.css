@@ -46,3 +46,10 @@ body {
   overflow-x: hidden;
 }
 
+@media (min-width: 576px) {
+  #col-tema {
+    /*display: none;*/
+    /*visibility: hidden;*/
+  }
+}
+
