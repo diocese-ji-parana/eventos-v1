@@ -35,7 +35,7 @@
   /*max-height: 100px;*/
   height: 85vh;
   max-width: 2500px;
-  top: calc((100vh / 2) - (85vh / 2 ));
+  top: calc((100vh / 2) - (90vh / 2 ));
   left: calc((100vw / 2) - (95vw / 2));
   /*background-color: yellowgreen;*/
   /*overflow: hidden;*/
